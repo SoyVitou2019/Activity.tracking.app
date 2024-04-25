@@ -1,0 +1,14 @@
+{
+  "name": "activities-tracking",
+  "version": "1.0.0",
+  "description": "Hello world",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Soy Vitou",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^30.0.1"
+  }
+}
